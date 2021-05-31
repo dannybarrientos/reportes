@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Ask for a receipt","Order several items","SUCCESS","2021-05-31T04:52:48.979Z[UTC]","0.0","0.12"
+"Place an order","Buyer orders a coffee","SUCCESS","2021-05-31T04:52:49.235Z[UTC]","0.0","0.04"
