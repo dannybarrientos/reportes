@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"View order history stats","Barry can see the number of each type of drink ordered","PENDING","2021-05-31T05:44:03.341Z[UTC]","0.0","0.0"
+"View order history stats","Barry can see the amount of ingredients consumed each month","PENDING","2021-05-31T05:44:03.348Z[UTC]","0.0","0.0"
+"Completing orders","Barry delivers a completed order","PENDING","2021-05-31T05:44:03.52Z[UTC]","0.0","0.04"
+"View pending orders","Barry sees all the orders","PENDING","2021-05-31T05:44:03.621Z[UTC]","0.0","0.04"
+"View pending orders","Barry sees the high priority orders first","PENDING","2021-05-31T05:44:03.661Z[UTC]","0.0","0.01"
